@@ -1,7 +1,8 @@
 import firebase from "firebase";
 
+
 firebase.initializeApp({
-    apiKey: "AIzaSyDYfB4d7AbTN7ZSwSqc_OPjTneh7qvycqI",
+    apiKey: "rAIzaSyDYfB4d7AbTN7ZSwSqc_OPjTneh7qvycqIr", //not real API
     authDomain: "awesomeproject-765de.firebaseapp.com",
     databaseURL: "https://awesomeproject-765de-default-rtdb.asia-southeast1.firebasedatabase.app",
     projectId: "awesomeproject-765de",
